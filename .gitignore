@@ -1,0 +1,10 @@
+.env
+build/
+dist/
+node_modules/
+*.tgz
+.pnpm-store/
+.env.local
+*.log
+coverage/
+dist/
